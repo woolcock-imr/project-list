@@ -1,4 +1,4 @@
-# project-list
+# Woolcock Project List (sources code and hosting link)
 
 <a href=https://github.com/woolcock-imr/windfarm-screening-questionnaire>Windfarm Screening Questionnaire</a>  
 <a href=https://github.com/woolcock-imr/hdeeg-mci-2>HDEEG-MCI</a>  
