@@ -1,5 +1,7 @@
 # Woolcock Project List (sources code and hosting link)
 
+<a href=https://github.com/woolcock-imr/sfix>SFIX</a>  
+<a href=https://github.com/woolcock-imr/sfix-online-questionnaire>SFIX Online Questionnaire</a>  
 <a href=https://github.com/woolcock-imr/amazes>Amazes</a>  
 <a href=https://github.com/woolcock-imr/hdeeg-mci-2-online-questionnaire>HDEEG-MCI (frontend)</a>  
 <a href=https://github.com/woolcock-imr/hdeeg-mci-2>HDEEG-MCI (backend)</a>  
