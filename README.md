@@ -1,7 +1,8 @@
 # Woolcock Project List (sources code and hosting link)
 
-<a href=https://github.com/woolcock-imr/cpaphdeeg-2>Cpaphdeeg-2</a>  
-<a href=https://github.com/woolcock-imr/cpaphdeeg-2-questionnaire>Cpaphdeeg-2 Online Questionnaire</a>  
+[Source](https://github.com/woolcock-imr/cpaphdeeg-2-online-questionnaire) | [CPAPHDEEG online-questionnaire](https://woolcock-imr.github.io/cpaphdeeg-2-online-questionnaire/index.html?database=development)  
+[Source](https://github.com/woolcock-imr/cpaphdeeg-2) | [CPAPHDEEG project management](https://woolcock-imr.github.io/cpaphdeeg-2/index.html?database=development)  
+
 <a href=https://github.com/woolcock-imr/sfix>SFIX</a>  
 <a href=https://github.com/woolcock-imr/sfix-online-questionnaire>SFIX Online Questionnaire</a>  
 <a href=https://github.com/woolcock-imr/amazes>Amazes</a>  
@@ -15,4 +16,3 @@
 <a href=https://github.com/woolcock-imr/windfarm-recruitment-management>Windfarm Recruitment (backend)</a>  
 <a href=https://github.com/woolcock-imr/windfarm-screening-questionnaire>Windfarm Screening</a>  
 <a href=https://github.com/woolcock-imr/windfarm-inlab>Windfarm Inlab</a>  
-
