@@ -7,6 +7,7 @@
 [Source](https://github.com/woolcock-imr/nightstudy-online-questionnaire) | [Nightstudy online questionnaire](https://woolcock-imr.github.io/nightstudy-online-questionnaire/index.html?database=development)  
 [Source](https://github.com/woolcock-imr/nightstudy) | [Nightstudy project management](https://woolcock-imr.github.io/nightstudy/index.html?database=development)  
 [Source](https://github.com/woolcock-imr/sfix-registration) | [SFIX registration](https://woolcock-imr.github.io/sfix-registration/index.html?database=development)  
+[Source](https://github.com/woolcock-imr/sfix-registration-management) | [SFIX registration management](https://woolcock-imr.github.io/sfix-registration-management/index.html?database=development)  
 [Source](https://github.com/woolcock-imr/sfix-online-questionnaire) | [SFIX online questionnaire](https://woolcock-imr.github.io/sfix-online-questionnaire/index.html?database=development)  
 [Source](https://github.com/woolcock-imr/sfix) | [SFIX project management](https://woolcock-imr.github.io/sfix/index.html?database=development)  
 [Source](https://github.com/woolcock-imr/volunteer-database-2) | [Volunteer Database (frontend)](https://woolcock-imr.github.io/volunteer-database-2/index.html?database=development)  
