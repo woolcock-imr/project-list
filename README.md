@@ -16,5 +16,5 @@
 [Source](https://github.com/woolcock-imr/windfarm-recruitment-management) | [Windfarm lab study registration management](https://woolcock-imr.github.io/windfarm-recruitment-management/index.html?database=development)  
 [Source](https://github.com/woolcock-imr/windfarm-lab-study-screening-online-questionnaire) | [Windfarm lab study screening online questionnaire](https://woolcock-imr.github.io/windfarm-lab-study-screening-online-questionnaire/index.html?database=development)  
 [Source](https://github.com/woolcock-imr/windfarm-screening-questionnaire) | [Windfarm lab study screening management](https://woolcock-imr.github.io/windfarm-screening-questionnaire/index.html?database=development)  
-[Source](https://github.com/woolcock-imr/windfarm-inlab) | [Windfarm lab study online questionnaire](https://woolcock-imr.github.io/windfarm-lab-study-online-questionnaire/index.html?database=development)  
+[Source](https://github.com/woolcock-imr/windfarm-lab-study-online-questionnaire) | [Windfarm lab study online questionnaire](https://woolcock-imr.github.io/windfarm-lab-study-online-questionnaire/index.html?database=development)  
 [Source](https://github.com/woolcock-imr/windfarm-inlab) | [Windfarm lab study management](https://woolcock-imr.github.io/windfarm-inlab/index.html?database=development)  
